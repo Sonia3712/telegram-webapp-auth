@@ -282,7 +282,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 env/
 venv/
 ENV/
@@ -321,3 +320,5 @@ cython_debug/
 #.idea/
 
 .benchmarks/
+config.bat
+node_modules

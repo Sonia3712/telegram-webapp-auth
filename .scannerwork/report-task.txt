@@ -1,0 +1,6 @@
+projectKey=telegram-webapp-auth-f223712
+serverUrl=http://localhost:9000
+serverVersion=26.1.0.118079
+dashboardUrl=http://localhost:9000/dashboard?id=telegram-webapp-auth-f223712
+ceTaskId=feb9c41b-da41-4e65-a6f8-3837b57f19de
+ceTaskUrl=http://localhost:9000/api/ce/task?id=feb9c41b-da41-4e65-a6f8-3837b57f19de
